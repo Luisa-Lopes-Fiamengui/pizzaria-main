@@ -136,7 +136,7 @@ header {
   background: #f6f6f6;
 }
 
-#BoasVindas img{
+#BoasVindas img {
   padding: 0;
 }
 
@@ -172,15 +172,15 @@ header {
   align-items: center;
 }
 
-#Cardapio img{
+#Cardapio img {
   padding: 36px 0;
 }
 
-#Cardapio div img{
+#Cardapio div img {
   padding: 0;
 }
 
-#Cardapio h2{
+#Cardapio h2 {
   color: #d03012;
   text-transform: uppercase;
   font-size: 28px;
@@ -188,7 +188,7 @@ header {
   margin: 0 0 7px 0;
 }
 
-.btnCardapio{
+.btnCardapio {
   text-decoration: none;
   color: #fff;
   background: #8daa3e;
@@ -197,7 +197,7 @@ header {
   border-bottom: 2px solid #6b7552;
 }
 
-#PromoPizzas{
+#PromoPizzas {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
@@ -207,13 +207,12 @@ header {
   padding-top: 20px;
 }
 
-
 /* #Cardapio div{
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
 } */
 
-#Cardapio div img{
+#Cardapio div img {
   height: 100%;
 }
