@@ -207,12 +207,26 @@ header {
   padding-top: 20px;
 }
 
-/* #Cardapio div{
+#Delivery {
+  max-height: 270px;
+  background: #ebe7db;
+  margin: 50px 0;
   display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-} */
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  text-align: center;
+}
+
+#Delivery h1 {
+  text-transform: uppercase;
+}
 
 #Cardapio div img {
   height: 100%;
+}
+
+#Delivery .sec-menu {
+  justify-content: center;
+  padding: 40px;
 }
